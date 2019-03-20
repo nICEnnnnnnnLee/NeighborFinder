@@ -8,11 +8,11 @@
 + 当局域网有新成员加入时, 刷新能够马上反应; 但成员退出时, 则必须等到缓存超时. 因为权限问题, 无法执行清除操作. 为此, 提供了PING测试功能; 同时另一个解决方案是关开飞行模式
 
 ## 预览
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/nICEnnnnnnnLee/NeighborFinder/master/view/screenshot-1.jpg">
-<img src="https://raw.githubusercontent.com/nICEnnnnnnnLee/NeighborFinder/master/view/screenshot-1.jpg" alt="" style="max-width: 360px;">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/nICEnnnnnnnLee/NeighborFinder/raw/master/view/screenshot-1.png">
+<img src="https://github.com/nICEnnnnnnnLee/NeighborFinder/raw/master/view/screenshot-1.png" alt="" style="max-width: 360px;">
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/nICEnnnnnnnLee/NeighborFinder/master/view/screenshot-2.jpg">
-<img src="https://raw.githubusercontent.com/nICEnnnnnnnLee/NeighborFinder/master/view/screenshot-2.jpg" alt="" style="max-width: 360px;">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/nICEnnnnnnnLee/NeighborFinder/raw/master/view/screenshot-1.png">
+<img src="https://github.com/nICEnnnnnnnLee/NeighborFinder/raw/master/view/screenshot-1.png" alt="" style="max-width: 360px;">
 </a>
 
 ## 下载
