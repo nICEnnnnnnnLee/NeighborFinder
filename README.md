@@ -11,8 +11,8 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/nICEnnnnnnnLee/NeighborFinder/raw/master/view/screenshot-1.png">
 <img src="https://github.com/nICEnnnnnnnLee/NeighborFinder/raw/master/view/screenshot-1.png" alt="" style="max-width: 360px;">
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/nICEnnnnnnnLee/NeighborFinder/raw/master/view/screenshot-1.png">
-<img src="https://github.com/nICEnnnnnnnLee/NeighborFinder/raw/master/view/screenshot-1.png" alt="" style="max-width: 360px;">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/nICEnnnnnnnLee/NeighborFinder/raw/master/view/screenshot-2.png">
+<img src="https://github.com/nICEnnnnnnnLee/NeighborFinder/raw/master/view/screenshot-2.png" alt="" style="max-width: 360px;">
 </a>
 
 ## 下载
